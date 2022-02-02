@@ -2,9 +2,10 @@
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+
 - 🔭 I’m working on **App development with Kotlin, Java**
 
-- 🌱 I’m currently learning **Canvas, MVVM, Jetpack Composes, Dependency Injections**
+- 🌱 I’m currently learning **Jetpack**
 
 - 💬 Ask me about **kotlin projects, ideas**
 
