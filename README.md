@@ -10,7 +10,8 @@
 
 - :heart: **Compitative Programming** <img src="https://www.codewars.com/users/suraj_2/badges/large" alt="codewar" width="40" height="40" align="center"/>
 
-- 📫 How to reach me **king007suraj@gmail.com**
+- 📫 How to reach me : <a href="mailto:king007suraj@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="Gmail" height="30" width="30" /></a>
+
 
 
 
