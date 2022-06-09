@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="Hi.gif" width="30px"> I'm Suraj</h1>
+<!-- <h1 align="center">Hi <img src="Hi.gif" width="30px"> I'm Suraj</h1> -->
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 
